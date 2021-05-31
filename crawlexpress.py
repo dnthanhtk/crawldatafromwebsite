@@ -43,7 +43,7 @@ for page in pages:
 
 
 new = pd.DataFrame({
-'new': tulieu
+'tulieu': tulieu
 ,'phantich':phantich
 })
 
